@@ -6,6 +6,8 @@ Parents suppose to appear as a small heart shapes, men: down left corner on a gr
 They mix up on a random grid of squares and children also start to show up on random squares.
 They run altogether and at the end, all cells die.
 
++ Also, I have an additional line at the end of the code but it doesn't show up in code uploaded on github. When I click to edit code, this additional line at the end shows up.
+
 ![Снимок экрана 2022-04-05 в 14 25 39 — копия](https://user-images.githubusercontent.com/100344816/161713182-b0f7bd47-da88-459a-8b7a-a9ec27c2d2e3.png)
 
 ![Снимок экрана 2022-04-05 в 14 23 04](https://user-images.githubusercontent.com/100344816/161714060-1862657c-74c6-4db7-b037-155a0f375754.png)
